@@ -1,0 +1,43 @@
+c:\users\jwarpech\documents\visual studio 2012\Projects\Change Machine\Change Machine\bin\Debug\Change Machine.exe.config
+c:\users\jwarpech\documents\visual studio 2012\Projects\Change Machine\Change Machine\bin\Debug\Change Machine.exe
+c:\users\jwarpech\documents\visual studio 2012\Projects\Change Machine\Change Machine\bin\Debug\Change Machine.pdb
+c:\users\jwarpech\documents\visual studio 2012\Projects\Change Machine\Change Machine\obj\Debug\Change Machine.csprojResolveAssemblyReference.cache
+c:\users\jwarpech\documents\visual studio 2012\Projects\Change Machine\Change Machine\obj\Debug\Change_Machine.Form1.resources
+c:\users\jwarpech\documents\visual studio 2012\Projects\Change Machine\Change Machine\obj\Debug\Change_Machine.Properties.Resources.resources
+c:\users\jwarpech\documents\visual studio 2012\Projects\Change Machine\Change Machine\obj\Debug\Change Machine.csproj.GenerateResource.Cache
+c:\users\jwarpech\documents\visual studio 2012\Projects\Change Machine\Change Machine\obj\Debug\Change Machine.exe
+c:\users\jwarpech\documents\visual studio 2012\Projects\Change Machine\Change Machine\obj\Debug\Change Machine.pdb
+H:\OOSD\CPRG 200 C#\Day 1\Change Machine\Change Machine\bin\Debug\Change Machine.exe.config
+H:\OOSD\CPRG 200 C#\Day 1\Change Machine\Change Machine\obj\Debug\Change Machine.exe
+H:\OOSD\CPRG 200 C#\Day 1\Change Machine\Change Machine\obj\Debug\Change Machine.pdb
+H:\OOSD\CPRG 200 C#\Day 1\Change Machine - No Penny\Change Machine\bin\Debug\Change Machine.exe.config
+H:\OOSD\CPRG 200 C#\Day 1\Change Machine - No Penny\Change Machine\obj\Debug\Change Machine.exe
+H:\OOSD\CPRG 200 C#\Day 1\Change Machine - No Penny\Change Machine\obj\Debug\Change Machine.pdb
+H:\OOSD\CPRG 200 C#\Day 1\Change Machine - No Penny\Change Machine\bin\Debug\Change Machine.exe
+H:\OOSD\CPRG 200 C#\Day 1\Change Machine - No Penny\Change Machine\bin\Debug\Change Machine.pdb
+H:\OOSD\CPRG 200 C#\Day 1\Change Machine - No Penny\Change Machine\obj\Debug\Change_Machine.Form1.resources
+H:\OOSD\CPRG 200 C#\Day 1\Change Machine - No Penny\Change Machine\obj\Debug\Change_Machine.Properties.Resources.resources
+H:\OOSD\CPRG 200 C#\Day 1\Change Machine - No Penny\Change Machine\obj\Debug\Change Machine.csproj.GenerateResource.Cache
+C:\Users\jwarpech\Desktop\Change Machine - No Penny\Change Machine\obj\Debug\Change Machine.csprojResolveAssemblyReference.cache
+C:\Users\jwarpech\Desktop\Change Machine - No Penny\Change Machine\obj\Debug\Change_Machine.Form1.resources
+C:\Users\jwarpech\Desktop\Change Machine - No Penny\Change Machine\obj\Debug\Change_Machine.Properties.Resources.resources
+C:\Users\jwarpech\Desktop\Change Machine - No Penny\Change Machine\obj\Debug\Change Machine.csproj.GenerateResource.cache
+C:\Users\jwarpech\Desktop\Change Machine - No Penny\Change Machine\obj\Debug\Change Machine.csproj.CoreCompileInputs.cache
+C:\Users\jwarpech\Desktop\Change Machine - No Penny\Change Machine\obj\Debug\Change Machine.exe
+C:\Users\jwarpech\Desktop\Change Machine - No Penny\Change Machine\obj\Debug\Change Machine.pdb
+C:\Users\jwarpech\Desktop\Change Machine - No Penny\Change Machine\bin\Debug\Change Machine.exe.config
+C:\Users\jwarpech\Desktop\Change Machine - No Penny\Change Machine\bin\Debug\Change Machine.exe
+C:\Users\jwarpech\Desktop\Change Machine - No Penny\Change Machine\bin\Debug\Change Machine.pdb
+H:\OOSD\CPRG 200 C#\Day 1\Change Machine - No Penny\Change Machine\obj\Debug\Change Machine.csprojAssemblyReference.cache
+H:\OOSD\CPRG 200 C#\Day 1\Change Machine - No Penny\Change Machine\obj\Debug\Change Machine.csproj.CoreCompileInputs.cache
+C:\Users\922848\Documents\Change Machine - No Penny\Change Machine\bin\Debug\Change Machine.exe.config
+C:\Users\922848\Documents\Change Machine - No Penny\Change Machine\bin\Debug\Change Machine.exe
+C:\Users\922848\Documents\Change Machine - No Penny\Change Machine\bin\Debug\Change Machine.pdb
+C:\Users\922848\Documents\Change Machine - No Penny\Change Machine\obj\Debug\Change Machine.csproj.AssemblyReference.cache
+C:\Users\922848\Documents\Change Machine - No Penny\Change Machine\obj\Debug\Change Machine.csproj.SuggestedBindingRedirects.cache
+C:\Users\922848\Documents\Change Machine - No Penny\Change Machine\obj\Debug\Change_Machine.Form1.resources
+C:\Users\922848\Documents\Change Machine - No Penny\Change Machine\obj\Debug\Change_Machine.Properties.Resources.resources
+C:\Users\922848\Documents\Change Machine - No Penny\Change Machine\obj\Debug\Change Machine.csproj.GenerateResource.cache
+C:\Users\922848\Documents\Change Machine - No Penny\Change Machine\obj\Debug\Change Machine.csproj.CoreCompileInputs.cache
+C:\Users\922848\Documents\Change Machine - No Penny\Change Machine\obj\Debug\Change Machine.exe
+C:\Users\922848\Documents\Change Machine - No Penny\Change Machine\obj\Debug\Change Machine.pdb
